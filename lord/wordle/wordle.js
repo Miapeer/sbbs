@@ -400,6 +400,7 @@ const game = {
         for (var charCode = 65; charCode <= 90; charCode++){
             var letter = String.fromCharCode(charCode);
             var letterState = letters[letter] || CellState.Unknown;
+            write(" ");
             write(letter, getColor(letterState));
         }
         write.blankline();
