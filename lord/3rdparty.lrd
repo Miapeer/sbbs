@@ -1,0 +1,19 @@
+;-=-=-=-= LORD'S INTERNAL 3RD PARTY SOFTWARE OPTION =-=-=-
+;Example of correct usage:
+;barak/barak.js <PARMS>  (* will have lord.js interject node #)
+;`9Name `3As `3It `2Appears `%to `2Users
+;(Yes, two lines are needed for each app)
+barak/barak.js
+`0T`2ravel `0T`2o `0B`2arak's `0H`2ouse`2
+grabbag/grabbag.js
+`$T`0he `$G`0rab `$B`0ag`2
+aratime/aratime.js
+`%Aragorn`2's Timer
+oorphans/oorphans.js
+`9Olodrin's `3Orphanage
+pickle/pickle.js
+`0T`2ravel `0T`2o Other Places Pickles
+wordle/wordle.js
+`$Jephisto`2's Wordle
+death_dr/death_dr.js
+`4Death's Door
